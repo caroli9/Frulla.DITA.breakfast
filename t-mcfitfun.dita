@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-McFitFun">
+    <title>McFitFun Recipe</title>
+    <shortdesc>This English muffin recipie is a healthier at-home version of McDonalds Egg McMuffin!</shortdesc>
+    <taskbody>
+        <prereq>Materials for this recipe include a toaster. The ingredients are as follows: <ul>
+                <li>1 whole wheat English muffin</li>
+                <li audience="mom">1 egg</li>
+                <li audience="mom">1 slice of tomato</li>
+                <li audience="mom">10 oz Swiss or Monterey Jack cheese</li>
+                <li audience="mom">2T avocado (or 3 very thin slices)</li>
+                <li audience="armando">1T peanut butter (or almond butter)</li>
+                <li audience="armando">1 sliced banana</li>
+                <li audience="armando">drizzle of honey</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step audience="mom">
+                <cmd>Heat a lightly oiled skillet over medium heat, and cook your egg however you desire.</cmd>
+            </step>
+            <step>
+                <cmd>Toast your English muffin in the toaster to your desired toastiness.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Immediately after removing the English muffin from the toaster, put the cheese on the bottom half so it begins to melt.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Layer the cheesy side with the tomato, egg, and avocado.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Spread the peanut butter (or almond butter) on the muffin.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add the sliced banana pieces, and a small drizzle of honey.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Serve your muffin while singing the McDonalds theme song, and enjoy.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

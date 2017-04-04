@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-spoiled">
+ <title>Spoiled Food</title>
+ <shortdesc>This topic lets my guests know when the food I have in the fridge is expected to go bad.</shortdesc>
+ <conbody>
+  <ul>
+   <li>
+    <ul>
+     <li id="tofuspoils">The tofu in the fridge goes bad on 4/28.</li>
+    </ul> 
+   </li>
+  </ul>
+ 
+ </conbody>
+</concept>

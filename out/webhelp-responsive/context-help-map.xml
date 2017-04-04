@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
    <appContext helpID="c-breakfast" path="c-breakfast.html"/>
-   <appContext helpID="t-pancakes" path="t-pancakes.html"/>
    <appContext helpID="t-pancakes" path="t-burrito.html"/>
-   <appContext helpID="t-frenchtoast" path="t-frenchtoast.html"/>
    <appContext helpID="t-McFitFun" path="t-mcfitfun.html"/>
+   <appContext helpID="t-pancakes" path="t-pancakes.html"/>
+   <appContext helpID="t-frenchtoast" path="t-frenchtoast.html"/>
+   <appContext helpID="c-refrences" path="c-references.html"/>
 </map>

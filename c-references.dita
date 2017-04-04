@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c-refrences">
- <title>Recipes Cited</title>
- <shortdesc></shortdesc>
+ <title>More Recipes</title>
+ <shortdesc>If you enjoyed any of the recipes I provided for you, and would like to find more by the same chef, check out their websites for more recipes!</shortdesc>
  <conbody>
   <ul>
-   <li>Pancakes:
-   <xref href="http://www.bonappetit.com/testkitchen/article/breakfast-tacos" format="html" scope="external"> 
-    3 Breakfast Taco Recipes You'll Definitely Want to Make </xref>
-  </li>
+   <li audience="armando">Pancakes:
+    <xref href="http://allrecipes.com/recipe/191885/vegan-pancakes/" format="html" scope="external"> 
+     AllRecipes.com Vegan Pancakes </xref>
+   </li>
+   <li audience="mom">Pancakes:
+    <xref href="http://www.food.com/recipe/petes-scratch-pancakes-5170" format="html" scope="external"> 
+     Petes Made From Scratch Pancakes </xref>
+   </li>
    <li audience="mom">Burrito:
     <xref href="http://www.foodandwine.com/recipes/sausage-and-black-bean-burritos" format="html" scope="external"> 
      Food and Wine Sausage Black Bean Burritos</xref>
@@ -28,6 +32,10 @@
    <li>English McFitFun:
     <xref href="https://www.fitgirls.com/products/28-day-jumpstart" format="html" scope="external"> 
      FitGirlsGuide 28 Day Jumpstart </xref>
+   </li>
+   <li audience="armando">Tofu Scramble:
+    <xref href="http://minimalistbaker.com/southwest-tofu-scramble/" format="html" scope="external"> 
+     The Minimalist Baker's Southwest Tofu Scramble</xref>
    </li>
   </ul>
  </conbody>

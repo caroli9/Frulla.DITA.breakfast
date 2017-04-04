@@ -9,8 +9,8 @@
 * 2 dashes hot sauce 
 * 1 teaspoon horseradish 
 * 1 stick Celery
-  ##Steps  
-###How to mix 1. 
+ 
+##How to mix 
 1. Stir all ingredients in a mixing glass.
 1.  Pour into a chilled highball glass. 
 1. Add ice cubes.

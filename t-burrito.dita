@@ -14,7 +14,9 @@
                 <li>1/4 teaspoon cumin</li>
                 <li>1/4 teaspoon chili powder</li>
                 <li audience="mom">8 large egg whites</li>
-                <li audience="armando">1-14oz package extra firm tofu, drained</li>
+                <li audience="armando">1-14oz package extra firm tofu, drained 
+                    <ul><li conref="c-spoiled.dita#c-spoiled/tofuspoils"></li></ul>
+                </li>
                 <li>1 avocado, diced</li>
                 <li audience="mom">1/2 cup shredded cheddar cheese</li>
                 <li audience="armando">1/2 cup vegan shreds cheese</li>

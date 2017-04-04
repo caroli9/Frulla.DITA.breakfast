@@ -15,5 +15,12 @@
   <topicref href="t-frenchtoast.dita"/>
   <topicref href="t-tofuscramble.dita"/>
  </topichead>
+ <topichead navtitle="Breakfast Drinks">
+  <topicref href="t-bloodymary.md" format="markdown">
+   <topicmeta>
+    <shortdesc>This recipe makes a delicious bloody mary</shortdesc>
+   </topicmeta>
+  </topicref>
+ </topichead>
  <topicref href="c-references.dita"/>
 </map>

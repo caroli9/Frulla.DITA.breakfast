@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-refrences">
+ <title>Recipes Cited</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <ul>
+   <li>Pancakes:
+   <xref href="http://www.bonappetit.com/testkitchen/article/breakfast-tacos" format="html" scope="external"> 
+    3 Breakfast Taco Recipes You'll Definitely Want to Make </xref>
+  </li>
+   <li audience="mom">Burrito:
+    <xref href="http://www.foodandwine.com/recipes/sausage-and-black-bean-burritos" format="html" scope="external"> 
+     Food and Wine Sausage Black Bean Burritos</xref>
+   </li>
+   <li audience="armando">Burrito:
+    <xref href="http://thefitchen.com/healthy-tofu-breakfast-burritos/" format="html" scope="external"> 
+     The Fitchen Healthy Tofu Breakfast Burrito </xref>
+   </li>
+   <li audience="armando">French Toast:
+    <xref href="https://www.loveandlemons.com/vegan-french-toast/" format="html" scope="external"> 
+     Love and Lemons Vegan French Toast </xref>
+   </li>
+   <li audience="mom">French Toast:
+    <xref href="http://www.foodnetwork.com/recipes/robert-irvine/french-toast-recipe" format="html" scope="external"> 
+     Robert Irvine's Dinner: Impoosible French Toast </xref>
+   </li>
+   <li>English McFitFun:
+    <xref href="https://www.fitgirls.com/products/28-day-jumpstart" format="html" scope="external"> 
+     FitGirlsGuide 28 Day Jumpstart </xref>
+   </li>
+  </ul>
+ </conbody>
+</concept>

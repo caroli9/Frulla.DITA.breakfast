@@ -3,9 +3,17 @@
 <map>
  <title>Breakfast Recipes for Armando</title>
  <topicref href="c-breakfast.dita"/>
- <topicref href="t-pancakes.dita"/>
- <topicref href="t-burrito.dita"/>
- <topicref href="t-frenchtoast.dita"/>
- <topicref href="t-mcfitfun.dita"/>
+ <topichead navtitle="Breakfast On the Go">
+  <topicmeta>
+   <shortdesc>These breakfast recipies are quick to make and are easily transportable if you're on the go.</shortdesc>
+  </topicmeta>
+  <topicref href="t-burrito.dita"/>
+  <topicref href="t-mcfitfun.dita"/>
+ </topichead>
+ <topichead navtitle="Breakfast Recipes">
+  <topicref href="t-pancakes.dita"/>
+  <topicref href="t-frenchtoast.dita"/>
+  <topicref href="t-tofuscramble.dita"/>
+ </topichead>
  <topicref href="c-references.dita"/>
 </map>

@@ -10,4 +10,5 @@ fil["7"]= "t-burrito.html@@@Burrito Recipe@@@These burritos make for a quick bre
 fil["8"]= "t-frenchtoast.html@@@French Toast Recipe@@@This french toast can be paired with toppings of your choice, such as fruit...";
 fil["9"]= "t-mcfitfun.html@@@McFitFun Recipe@@@This English muffin recipie is a healthier at-home version of McDonalds Egg McMuffin!...";
 fil["10"]= "t-pancakes.html@@@Pancakes Recipe@@@These pancakes can be paired with toppings of your choice, such as fruit...";
-fil["11"]= "t-tofuscramble.html@@@Tofu Scramble@@@This tofu scramble is the perfect way to start your day!...";
+fil["11"]= "t-toast.html@@@Avocado Toast@@@This avocado is the perfect way to start your day!...";
+fil["12"]= "t-tofuscramble.html@@@Tofu Scramble@@@This tofu scramble is the perfect way to start your day!...";

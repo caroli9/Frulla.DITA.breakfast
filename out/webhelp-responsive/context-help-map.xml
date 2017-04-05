@@ -6,6 +6,7 @@
    <appContext helpID="t-pancakes" path="t-pancakes.html"/>
    <appContext helpID="t-frenchtoast" path="t-frenchtoast.html"/>
    <appContext helpID="t-frenchtoast" path="t-tofuscramble.html"/>
+   <appContext helpID="t-toast" path="t-toast.html"/>
    <appContext helpID="bloody_mary" path="t-bloodymary.html"/>
    <appContext helpID="c-breakfast" path="c-thanks.html"/>
    <appContext helpID="c-refrences" path="c-references.html"/>

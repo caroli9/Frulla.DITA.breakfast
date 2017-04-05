@@ -11,5 +11,6 @@ fl["7"]= "t-burrito.html";
 fl["8"]= "t-frenchtoast.html";
 fl["9"]= "t-mcfitfun.html";
 fl["10"]= "t-pancakes.html";
-fl["11"]= "t-tofuscramble.html";
+fl["11"]= "t-toast.html";
+fl["12"]= "t-tofuscramble.html";
 var doStem = false;searchLoaded = true;

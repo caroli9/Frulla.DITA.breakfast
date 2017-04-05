@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-toast">
+    <title>Avocado Toast</title>
+    <shortdesc>This avocado is the perfect way to start your day!</shortdesc>
+    <taskbody>
+        <prereq>Materials for this recipe include a measuring cup, a bowl, a skillet, and a stovetop. The ingredients are as follows:
+            <ul>
+                <li>2 slices sandwich bread</li>
+                <li>1 cup homemade or store-bought vegan refried beans</li>
+                <li>1 avocado, thinly sliced</li>
+                <li>A few slivers white onion</li>
+                <li>Coarse sea salt such as Maldon or fleur de sel</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Toast bread to desired level of doneness.</cmd>
+            </step>
+            <step>
+            <cmd>Top with refried beans and avocado (mash with a fork if desired).</cmd>
+            </step>
+            <step>
+                <cmd>Add slivered onions</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle with salt, and serve.</cmd>
+            <stepresult>
+                    <fig id="fig_em5_xzh_tx">
+                        <title>Avocado Toast</title>
+                        <image href="toast.jpg" id="toast"/>
+                    </fig>
+                </stepresult>
+            </step> 
+        </steps>
+    </taskbody>
+</task>

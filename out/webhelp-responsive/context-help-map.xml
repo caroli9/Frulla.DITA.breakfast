@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="c-breakfast" path="c-breakfast.html"/>
+   <appContext helpID="topic_ypk_hmw_lz" path="l-welcome.html"/>
    <appContext helpID="t-pancakes" path="t-burrito.html"/>
    <appContext helpID="t-McFitFun" path="t-mcfitfun.html"/>
    <appContext helpID="t-pancakes" path="t-pancakes.html"/>
    <appContext helpID="t-frenchtoast" path="t-frenchtoast.html"/>
    <appContext helpID="t-frenchtoast" path="t-tofuscramble.html"/>
    <appContext helpID="bloody_mary" path="t-bloodymary.html"/>
+   <appContext helpID="c-breakfast" path="c-thanks.html"/>
    <appContext helpID="c-refrences" path="c-references.html"/>
+   <appContext helpID="topic_vxg_4mw_lz" path="l-contact.html"/>
 </map>

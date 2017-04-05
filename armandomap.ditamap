@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Breakfast Recipes for Armando</title>
- <topicref href="c-breakfast.dita"/>
+ <topicref href="l-welcome.dita"/>
  <topichead navtitle="Breakfast On the Go">
   <topicmeta>
    <shortdesc>These breakfast recipies are quick to make and are easily transportable if you're on the go.</shortdesc>
@@ -11,17 +11,24 @@
   <topicref href="t-mcfitfun.dita"/>
  </topichead>
  <topichead navtitle="Breakfast Recipes">
+  <topicmeta>
+   <shortdesc>These recipes take a little more time, but are worth the wait.</shortdesc>
+  </topicmeta>
   <topicref href="t-pancakes.dita"/>
   <topicref href="t-frenchtoast.dita"/>
   <topicref href="t-tofuscramble.dita"/>
  </topichead>
  <topichead navtitle="Breakfast Drinks">
+  <topicmeta>
+   <shortdesc>Alcoholic options for when juice isn't enough</shortdesc>
+  </topicmeta>
   <topicref href="t-bloodymary.md" format="markdown">
    <topicmeta>
     <shortdesc>This recipe makes a delicious bloody mary</shortdesc>
    </topicmeta>
   </topicref>
  </topichead>
+ <topicref href="c-thanks.dita"/>
  <topicref href="c-references.dita"/>
- <topicref href="c-contact.dita"/>
+ <topicref href="l-contact.dita"/>
 </map>
